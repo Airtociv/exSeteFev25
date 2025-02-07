@@ -1,13 +1,16 @@
 import "./App.css";
 import BlocoParaTeste from "./components/BlocoParaTeste.jsx";
 import SegundoExemplo from "./components/SegundoExemplo.jsx";
+import TerceiroExemplo from "./components/TerceiroExemplo.jsx";
 
 
 function App() {
   return (
     <>
-         <BlocoParaTeste/>
       <h1>Titulo</h1>
+        <TerceiroExemplo/>
+ 
+        <BlocoParaTeste/>
       <p>
         Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique
         earum est at nobis officia doloribus porro doloremque. Omnis
